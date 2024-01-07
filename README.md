@@ -96,7 +96,7 @@ sudo -i
 - HARAP DI BACA
 - VPS WAJIB PUNYA AKSES ROOT
 ```
-tunggu dulu woy
+wget https://raw.githubusercontent.com/fisabiliyusri/MANTAPV3/main/install.sh && chmod +x install.sh && ./install.sh
 ```
 
 # CARA POINTING DOMAIN/IP VPS KE CLOUDFLARE (MANUAL)
